@@ -1,9 +1,6 @@
 #!/usr/bin/ruby
-
 #Histogram
-#Armando Mustacchio
-#CIT 383-001 Fall 2019
-#09/22/19
+
 
 
 #Ask user to input the number of random integers to generate
