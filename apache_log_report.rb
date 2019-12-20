@@ -1,8 +1,4 @@
 #!/usr/bin/ruby
-#Armando Mustacchio
-#CIT 383 001
-#10/20/19
-
 
 #Read log file access_log
 line_array = File.readlines("access_log.txt")
